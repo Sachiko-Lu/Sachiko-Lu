@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "A collocation method based on localized radial basis functions with reproducibility for nonlocal diffusion models"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-12-15
+venue: 'Computational and Applied Mathematics, 40 (8), 271'
+paperurl: 'https://github.com/Sachiko-Lu/Sachiko-Lu/blob/d685c62bc35d00d4cdf5346153cf390f3cd4def4/files/collocation_coam.pdf'
+citation: 'Lu J, Nie Y. A collocation method based on localized radial basis functions with reproducibility for nonlocal diffusion models[J]. Computational and Applied Mathematics, 2021, 40(8): 271.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
